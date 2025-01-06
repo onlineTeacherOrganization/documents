@@ -72,6 +72,9 @@
         <mxCell id="YeQQSfsdtK3PzPFvYLY2-3" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;يوجد اي فلتر لعرض المدرسين&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="77e6c97f196da883-3">
           <mxGeometry x="120" y="180" width="100" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="YeQQSfsdtK3PzPFvYLY2-7" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;طريقه حساب سعر المدرس في حالة الحصه&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="77e6c97f196da883-3">
+          <mxGeometry x="140" y="40" width="100" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="77e6c97f196da883-4" value="المدرس" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="560" y="20" width="270" height="1450" as="geometry" />
         </mxCell>
