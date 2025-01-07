@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.4">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1112" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1203" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="77e6c97f196da883-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;تسجيل الدخول والاشتراك&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
+        <mxCell id="77e6c97f196da883-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;اكاديمية تعليمية - العمليات الداخلية&lt;/span&gt;" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
           <mxGeometry x="70" y="40" width="1270" height="1470" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="الطالب" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
@@ -40,7 +40,7 @@
         <mxCell id="ybFRxPexvzfVAyxdAonP-42" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;الاسم - المرحلة -المنهج-لغات او لا&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="130" y="20" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YeQQSfsdtK3PzPFvYLY2-5" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;هل يوجد موافقة علي تسجيل الطالب&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="77e6c97f196da883-2">
+        <mxCell id="YeQQSfsdtK3PzPFvYLY2-5" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;هل يوجد موافقة علي تسجيل الطالب&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="220" y="20" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-3" value="Admin" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
@@ -54,13 +54,13 @@
         <mxCell id="gXXJkUKkk2i1NEF0JBJ7-20" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;اضافة المواد&amp;nbsp;&lt;br&gt;المناهج&lt;br&gt;اللغات&lt;br&gt;المراحل&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry x="50" y="40" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YeQQSfsdtK3PzPFvYLY2-1" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;أذا وجدت مشكله في المحاضرة بين المدرس والطالب&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="77e6c97f196da883-3">
+        <mxCell id="YeQQSfsdtK3PzPFvYLY2-1" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;أذا وجدت مشكله في المحاضرة بين المدرس والطالب&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry y="910" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YeQQSfsdtK3PzPFvYLY2-3" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;يوجد اي فلتر لعرض المدرسين&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="77e6c97f196da883-3">
+        <mxCell id="YeQQSfsdtK3PzPFvYLY2-3" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;يوجد اي فلتر لعرض المدرسين&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry x="120" y="180" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YeQQSfsdtK3PzPFvYLY2-7" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;طريقه حساب سعر المدرس في حالة الحصه&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="77e6c97f196da883-3">
+        <mxCell id="YeQQSfsdtK3PzPFvYLY2-7" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;طريقه حساب سعر المدرس في حالة الحصه&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry x="140" y="40" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ybFRxPexvzfVAyxdAonP-21" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;اعداد اللينك للمحاضرات&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-3" vertex="1">
@@ -72,17 +72,6 @@
         <mxCell id="ybFRxPexvzfVAyxdAonP-41" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;التخزين والحماية&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry x="120" y="770" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ybFRxPexvzfVAyxdAonP-28" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;المحاضرات&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-3" vertex="1">
-          <mxGeometry x="250" y="850" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ybFRxPexvzfVAyxdAonP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.82;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="77e6c97f196da883-3" source="ybFRxPexvzfVAyxdAonP-21" target="ybFRxPexvzfVAyxdAonP-28" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="147" y="730" />
-              <mxPoint x="300" y="730" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ybFRxPexvzfVAyxdAonP-26" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;المحاضرات&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry x="-300" y="770" width="100" height="60" as="geometry" />
         </mxCell>
@@ -93,9 +82,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ybFRxPexvzfVAyxdAonP-39" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;المحاضرات تظهر وقت المحدد لها فقط&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="77e6c97f196da883-3" vertex="1">
-          <mxGeometry x="250" y="760" width="100" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="77e6c97f196da883-4" value="المدرس" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="750" y="20" width="270" height="1450" as="geometry" />
         </mxCell>
@@ -105,14 +91,20 @@
         <mxCell id="gXXJkUKkk2i1NEF0JBJ7-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;تحديد ميعادين للطالب لكل اسبوع&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-4" vertex="1">
           <mxGeometry x="30" y="170" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YeQQSfsdtK3PzPFvYLY2-2" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;الاسم - المرحلة -المنهج-لغات او لا&lt;br&gt;هل متاح فترة صباحية ام مسائية&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="77e6c97f196da883-4">
+        <mxCell id="YeQQSfsdtK3PzPFvYLY2-2" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;الاسم - المرحلة -المنهج-لغات او لا&lt;br&gt;هل متاح فترة صباحية ام مسائية&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="77e6c97f196da883-4" vertex="1">
           <mxGeometry x="100" y="50" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="gXXJkUKkk2i1NEF0JBJ7-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;تسجيل البيانات الرئيسية&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-4" vertex="1">
           <mxGeometry x="30" y="30" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YeQQSfsdtK3PzPFvYLY2-4" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;هل يوجد موافقة علي تسجيل المدرس&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="77e6c97f196da883-4">
+        <mxCell id="YeQQSfsdtK3PzPFvYLY2-4" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;هل يوجد موافقة علي تسجيل المدرس&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="77e6c97f196da883-4" vertex="1">
           <mxGeometry x="160" y="170" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ybFRxPexvzfVAyxdAonP-28" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;المحاضرات&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-4" vertex="1">
+          <mxGeometry x="100" y="920" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ybFRxPexvzfVAyxdAonP-39" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;المحاضرات تظهر وقت المحدد لها فقط&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="77e6c97f196da883-4" vertex="1">
+          <mxGeometry x="120" y="770" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gXXJkUKkk2i1NEF0JBJ7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="77e6c97f196da883-1" source="77e6c97f196da883-9" target="77e6c97f196da883-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -237,6 +229,14 @@
               <mxPoint x="1250" y="700" />
             </Array>
             <mxPoint x="1030" y="430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ybFRxPexvzfVAyxdAonP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.82;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="77e6c97f196da883-1" source="ybFRxPexvzfVAyxdAonP-21" target="ybFRxPexvzfVAyxdAonP-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="467" y="750" />
+              <mxPoint x="900" y="750" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
