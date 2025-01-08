@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.4">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1203" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1003" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="gXXJkUKkk2i1NEF0JBJ7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="77e6c97f196da883-2" source="gXXJkUKkk2i1NEF0JBJ7-3" target="gXXJkUKkk2i1NEF0JBJ7-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gXXJkUKkk2i1NEF0JBJ7-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;مشاهدة الفيديو التجريبي&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
+        <mxCell id="gXXJkUKkk2i1NEF0JBJ7-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;حصه اونلاين التجريبي&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="20" y="220" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gXXJkUKkk2i1NEF0JBJ7-5" value="&lt;font size=&quot;1&quot;&gt;تمت الموافقة علي المدرس&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
@@ -40,9 +40,6 @@
         <mxCell id="ybFRxPexvzfVAyxdAonP-42" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;الاسم - المرحلة -المنهج-لغات او لا&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="130" y="20" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YeQQSfsdtK3PzPFvYLY2-5" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;هل يوجد موافقة علي تسجيل الطالب&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="77e6c97f196da883-2" vertex="1">
-          <mxGeometry x="220" y="20" width="100" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="77e6c97f196da883-3" value="Admin" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry x="320" y="20" width="430" height="1450" as="geometry">
             <mxRectangle x="320" y="20" width="40" height="1450" as="alternateBounds" />
@@ -57,7 +54,7 @@
         <mxCell id="YeQQSfsdtK3PzPFvYLY2-1" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;أذا وجدت مشكله في المحاضرة بين المدرس والطالب&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry y="910" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YeQQSfsdtK3PzPFvYLY2-3" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;يوجد اي فلتر لعرض المدرسين&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="77e6c97f196da883-3" vertex="1">
+        <mxCell id="YeQQSfsdtK3PzPFvYLY2-3" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;يظهر حسب التخصص&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry x="120" y="180" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YeQQSfsdtK3PzPFvYLY2-7" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;طريقه حساب سعر المدرس في حالة الحصه&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="77e6c97f196da883-3" vertex="1">
@@ -97,7 +94,7 @@
         <mxCell id="gXXJkUKkk2i1NEF0JBJ7-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;تسجيل البيانات الرئيسية&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-4" vertex="1">
           <mxGeometry x="30" y="30" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YeQQSfsdtK3PzPFvYLY2-4" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;هل يوجد موافقة علي تسجيل المدرس&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="77e6c97f196da883-4" vertex="1">
+        <mxCell id="YeQQSfsdtK3PzPFvYLY2-4" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;يوجد موافقة من الادمن مبدأيا&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="77e6c97f196da883-4" vertex="1">
           <mxGeometry x="160" y="170" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ybFRxPexvzfVAyxdAonP-28" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;المحاضرات&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-4" vertex="1">
